@@ -8,6 +8,7 @@
 # ELT-DUCKDB-SALES-POC
 
 PoC de ELT com Python e DuckDB em Docker, estruturada em camadas **Bronze**, **Silver** e **Gold**, com modelagem final em **Star Schema (Kimball)**. Foco em leveza, performance, simplicidade aproveitando recursos open source.
+Este projeto foi desenvolvido inicialmente em notebooks Jupyter visando agilidade e facilidade na prototipação e visualização dos dados durante o desenvolvimento. Para produção e execução em ambientes isolados como containers Docker, os notebooks foram convertidos para scripts `.py`, resultando em uma imagem extremamente enxuta, portátil e de fácil execução. Essa abordagem equilibra produtividade no desenvolvimento com leveza e eficiência na execução.
 
 ---
 
