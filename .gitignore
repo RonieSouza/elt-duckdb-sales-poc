@@ -210,3 +210,4 @@ __marimo__/
 /data/bronze/*
 /data/silver/*
 /data/gold/*
+!.gitkeep
