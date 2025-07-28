@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" alt="DuckDB Logo" width="150"/>
+</p>
+<p align="center">
+  <b>Este projeto utiliza <a href="https://duckdb.org">DuckDB</a> motor principal de processamento analítico.</b><br/>
+</p>
+
 # ELT-DUCKDB-SALES-POC
 
 PoC de ELT com Python e DuckDB em Docker, estruturada em camadas **Bronze**, **Silver** e **Gold**, com modelagem final em **Star Schema (Kimball)**. Foco em leveza, performance, simplicidade aproveitando recursos open source.
