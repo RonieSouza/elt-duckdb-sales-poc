@@ -207,6 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 # Dados gerados pelo processo
-/data/bronze
-/data/silver
-/data/gold
+/data/bronze/*
+/data/silver/*
+/data/gold/*
